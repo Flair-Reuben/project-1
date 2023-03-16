@@ -1,0 +1,29 @@
+/* Simple Style Resets */
+* {
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+header {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+/* .brand */
+
+nav {
+    padding: 10px;
+    margin-left: 70px;
+}
+
+a {
+    padding: 10px;
+    text-decoration: none;
+}
